@@ -11,3 +11,4 @@ The script maps hostnames of websites to localhost address.
 - `sudo nano /etc/hosts`
 - enter password
 - take note of your hosts
+- `chown [username] [file]`
