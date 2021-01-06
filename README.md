@@ -8,7 +8,8 @@ The script maps hostnames of websites to localhost address.
 
 ## To run
 
-- `sudo nano /etc/hosts`
-- enter password
-- take note of your hosts
-- `chown [username] [file]`
+- `sudo crontab -e`
+- `i` (insert)
+- `@reboot script.py`
+- `esc`
+- `:wq`
